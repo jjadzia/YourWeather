@@ -1,0 +1,6 @@
+
+AppId = "7CpQFCVq"
+
+ClientId = "dj0yJmk9Vnk2Y0FoN3dsYkRrJmQ9WVdrOU4wTndVVVpEVm5FbWNHbzlNQT09JnM9Y29uc3VtZXJzZWNyZXQmc3Y9MCZ4PTc2"
+
+ClientSecret = "cbf34f622382d7f5b6a2e10d7357c7b10d555b8b"
